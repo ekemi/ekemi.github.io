@@ -1,11 +1,11 @@
 # Site settings
-author: poignant-writer-1163
-title: 
+author: Cyr Edwin
+title: Why did you decide to study Software Engineering?
 header-img: img/home-bg.png
 email: edmundopierre@yahoo.com
-copyright_name: poignant-writer-1163
+copyright_name: Cyr Edwin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ekemi
